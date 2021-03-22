@@ -1,0 +1,3 @@
+pip install selenium
+pip install pyfiglet
+pip install os-sys
